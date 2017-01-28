@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Dom Ceja
 tagline:             'Journey of a Software Engineer'
 description:         'Spreading knowledge one byte at a time'
-url:                 http://ceja.io
+url:                 http://blog.ceja.io
 baseurl:             ''
 paginate:            5
 
@@ -23,3 +23,6 @@ version:             1.0.0
 
 # Gems
 gems:                 [jekyll-paginate]
+
+# Blog post comments
+disqus_shortname:        blogceja

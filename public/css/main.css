@@ -1,0 +1,17 @@
+.profile-img {
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1rem;
+    border-radius: 5px;
+    padding-left: 25px;
+}
+
+  .post-more {
+    margin-top: .5em;
+    text-align: right;
+    
+  }
+
+  .fa{
+      margin-right: .2em;
+    }

@@ -11,6 +11,7 @@ description:         'Spreading knowledge one byte at a time'
 url:                 http://blog.ceja.io
 baseurl:             ''
 paginate:            5
+github:             https://github.com/domceja
 
 # About/contact
 author:
@@ -19,7 +20,7 @@ author:
   email:             hello@ceja.io
 
 # Custom vars
-version:             1.0.0
+version:             0.1.0
 
 # Gems
 gems:                 [jekyll-paginate]

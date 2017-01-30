@@ -17,9 +17,13 @@
     }
 
 
-    .img-center {
-      text-align: center;
-      font-size: small;
+  #img-center {
       display:block;
       margin:auto;
+    }
+
+
+    #img-caption {
+      text-align: center;
+      font-size: small;
     }

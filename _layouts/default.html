@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   {% include head.html %}
-
+ 
   <body>
 
     {% include sidebar.html %}
@@ -26,6 +26,9 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+
+       {% include analytics.html %}
+
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
@@ -43,5 +46,7 @@
         }, false);
       })(document);
     </script>
+
+ 
   </body>
 </html>

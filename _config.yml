@@ -12,6 +12,7 @@ url:                 http://blog.ceja.io
 baseurl:             ''
 paginate:            5
 github:             https://github.com/domceja
+google_analytics:   'UA-91013896-1'
 
 # About/contact
 author:

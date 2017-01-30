@@ -15,3 +15,11 @@
   .fa{
       margin-right: .2em;
     }
+
+
+    .img-center {
+      text-align: center;
+      font-size: small;
+      display:block;
+      margin:auto;
+    }
